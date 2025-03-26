@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__calculator.o
+[PROJECT FILES]
+C:\Users\mehmet\Desktop\395_odev\ada\calculator\calculator.gpr
+20250326162110 ab12333a77e8105b1aee0d1aac4b63a7
+C:\Users\mehmet\Desktop\395_odev\ada\calculator\config\calculator_config.gpr
+20250326162110 8c38ad7a7ae23f00e2c751c758c50fc3
+[BOUND OBJECT FILES]
+C:\Users\mehmet\Desktop\395_odev\ada\calculator\obj\development\calculator.o
+[GENERATED SOURCE FILES]
+b__calculator.ads
+b__calculator.adb
+b__calculator.ali
+[RESULTING OPTIONS]
+-LC:\Users\mehmet\Desktop\395_odev\ada\calculator\obj\development\
+-LC:\Users\mehmet\Desktop\395_odev\ada\calculator\obj\development\
+-LC:/users/mehmet/appdata/local/alire/cache/toolchains/gnat_native_14.2.1_2540cccb/lib/gcc/x86_64-w64-mingw32/14.2.0/adalib/
+-static
+-static-libgcc
+C:/users/mehmet/appdata/local/alire/cache/toolchains/gnat_native_14.2.1_2540cccb/lib/gcc/x86_64-w64-mingw32/14.2.0/adalib/libgnat.a
+-Wl,--stack=0x2000000

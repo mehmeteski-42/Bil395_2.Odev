@@ -1,0 +1,28 @@
+calculator.adb:4:11: warning: file name does not match unit name, should be "simple_calculator.adb" [enabled by default]
+calculator.adb:5:07: (style) space required [-gnatyt]
+calculator.adb:8:07: (style) space required [-gnatyt]
+calculator.adb:12:07: (style) space required [-gnatyt]
+calculator.adb:13:30: (style) "in" should be omitted [-gnatyI]
+calculator.adb:20:10: (style) space required [-gnatyt]
+calculator.adb:25:10: (style) space required [-gnatyt]
+calculator.adb:27:13: (style) space required [-gnatyt]
+calculator.adb:30:13: (style) space required [-gnatyt]
+calculator.adb:33:13: (style) space required [-gnatyt]
+calculator.adb:39:10: (style) space required [-gnatyt]
+calculator.adb:41:13: (style) space required [-gnatyt]
+calculator.adb:44:13: (style) space required [-gnatyt]
+calculator.adb:48:10: (style) space required [-gnatyt]
+calculator.adb:50:13: (style) space required [-gnatyt]
+calculator.adb:53:13: (style) space required [-gnatyt]
+calculator.adb:57:13: (style) space required [-gnatyt]
+calculator.adb:69:10: (style) space required [-gnatyt]
+calculator.adb:70:29: error: expected type "Standard.String"
+calculator.adb:70:29: error: found private type "Ada.Strings.Unbounded.Unbounded_String"
+calculator.adb:79:10: (style) space required [-gnatyt]
+calculator.adb:81:07: error: no candidate interpretations match the actuals:
+calculator.adb:81:07: error: too many arguments in call to "Get_Line"
+calculator.adb:81:07: error: missing argument for parameter "Last" in call to "Get_Line" declared at a-textio.ads:535
+calculator.adb:81:07: error: missing argument for parameter "Item" in call to "Get_Line" declared at a-textio.ads:521
+calculator.adb:83:10: (style) space required [-gnatyt]
+calculator.adb:84:10: error: "To_Lower" is undefined
+calculator.adb:88:10: (style) space required [-gnatyt]
